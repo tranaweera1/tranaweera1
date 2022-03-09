@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+
+Tech Stacks:
+
+React
+SCSS
+Java
+
 <!--
 **tranaweera1/tranaweera1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
